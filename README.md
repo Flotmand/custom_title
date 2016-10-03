@@ -1,2 +1,4 @@
-# custom_tittle
-A script used in a Wordpress theme that gives the last word in a tittle another &lt;span>-tag so it can be styled differently than the rest of the title.
+# custom_title
+A script that I use in a Wordpress theme that enables me to style the last word in a tittle differently than the rest of the title no matter how may words the title consist of.
+
+
